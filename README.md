@@ -4,7 +4,8 @@ If youve ever wanted to learn Ruby but youre not sure where to start, or if youv
 #### Includes:
 * Keynote
 * Example scripts
-* Link to video (after it's posted)
+* [Link to video link](https://www.youtube.com/watch?v=NK9V4EqgFnU&ytbChannel=null)
+
 ---
 #### Resources:
 
