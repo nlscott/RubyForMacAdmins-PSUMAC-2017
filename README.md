@@ -40,7 +40,7 @@ by Dave Thomas
 
 ---
 ##### Documentation:
-
+.
 [Ruby Docs](http://ruby-doc.org/)
 
 [LaunchSchool](https://launchschool.com/books/ruby/read)
